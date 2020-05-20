@@ -1,6 +1,6 @@
 # Simple Bruteforce Node.js
 
-###Easy way to bruteforce in nodejs
+### Easy way to bruteforce in nodejs
 
 Launch example with :
 
@@ -14,7 +14,7 @@ node index.js
 - ```maxLength``` : max length of the bruteforce sentence
 - ```test``` : characters to include in bruteforce
 
-###Example
+### Example
 
 ```
 bf = require('./bruteforce');
